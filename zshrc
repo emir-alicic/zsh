@@ -1,6 +1,6 @@
 # Begining of the file
 # Main conf dir is /etc/zsh/zshrc
-# Written by Asmir; asmir [at] archlinux [dot] us
+# Written by Asmir; asmir.abdulahovic [at] gmail [dot] com 
 ### Includes ###
 #{{{ 
 # Syntax highlight plugin
@@ -26,7 +26,6 @@ for c in cp rm chmod chown rename; do
     alias $c="$c -v"
 alias info="info --vi-keys"
 alias x="xinit -- -nocursor"
-alias pravo="sudo iwconfig wlan0 essid "airlive_pravo" key s:pravo"
 alias wcc="wicd-curses"
 alias p="proxychains"	
 done
