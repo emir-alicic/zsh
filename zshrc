@@ -6,10 +6,6 @@
 # Syntax highlight plugin
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
-# vi cursor mode status
-source ~/.zsh/vi_cursor_mode.zsh
-#}}}
-
 ### Startup ###
 #{{{
 #fortune 
